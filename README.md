@@ -6,7 +6,7 @@
         <br>
     </samp>
     <img align="middle"
-        src="https://github-readme-stats.vercel.app/api?username=ddevin96&show_icons=true&hide_title=true" />
+        src="https://github-readme-stats.vercel.app/api?username=ddevin96&show_icons=true&hide_title=true&theme=radical" />
     <br>
     <a href="mailto:ddevinco@unisa.it" title="mail me"><img style="height:20px" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a> 
 </p>
