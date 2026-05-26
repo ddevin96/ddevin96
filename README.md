@@ -5,7 +5,7 @@
         <br> I’m a Ph.D.  @ <b><a href="https://www.unisa.it/"> Università degli Studi di Salerno</a></b>.
         <br>
     </samp>
-    [![GitHub Streak](https://streak-stats.demolab.com?user=ddevin96&theme=rust-ferris-dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ddevin96&theme=rust-ferris-dark&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
     <img align="middle"
         src="https://github-readme-stats.vercel.app/api?username=ddevin96&show_icons=true&hide_title=true&theme=radical" />
     <br>
